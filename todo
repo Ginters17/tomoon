@@ -1,0 +1,15 @@
+-- FOR NOW --
+
+1) Implement: Dark and Light theme
+ 
+2) Implement: Sort by [ADVANCED REQUIREMENT]
+
+3) Fix: Comments Edit Function frontend [CSS]
+
+
+-- FOR FUTURE --
+Make the navbar consistant in all Views (@yield?)
+Make this shit responsive 
+Can post images
+Replies to comments
+

@@ -1,0 +1,126 @@
+
+td:hover{
+    cursor:pointer;
+    border-color:white;
+}
+td{
+    background-color:#333;
+    border-radius: 4px;
+    padding-left:5%;
+    padding-right:5%;
+    color:white;
+    padding-top:35px;
+    padding-bottom:35px;
+    border:2px solid #333;
+}
+
+p{
+    color:white;
+}
+input[type=text] {
+    background-color: #333;
+    color: white;
+    font-style: italic;
+}
+body{
+    font-family: "Verdana";
+    margin:0;
+    background-color:#121212;
+}
+
+#form1{
+    margin-top:50px;
+    text-align:center;
+    border-color:black;
+}
+ul {
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.5);
+    list-style-type: none;
+    margin-top: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li {
+    float: left;
+}
+.navbar li:nth-child(3){
+    float: right;
+}
+.navbar li:last-child{
+    float: right;
+}
+.navbar li:first-child{
+    margin-left: 20px;
+}
+.navbar li:nth-child(2){
+    margin-left: 32%;
+    /* NOT GOOD */
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-top: 3px solid #333;
+    border-bottom: 3px solid #333;
+}
+li a:hover:not(.active) {
+    border-bottom: 3px solid black;
+}
+.active {
+    background-color: #4CAF50;
+}
+#error{
+    text-align: center;
+    color: white;
+}
+
+#search{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 25px;
+    width: 200%;
+    border: 1px solid #111;
+    border-radius: 4px;
+    padding-left: 10px;
+    font-size: 16px;
+}
+
+h2{
+    margin-top: 150px;
+    text-align: center;
+    color: white;
+}
+#text{
+    padding: 5px;
+    width: 50%;
+    height: 100px;
+    border: none;
+    margin-top: 20px;
+}
+#subject{
+    padding: 5px;
+    width: 50%;
+    height: 50px;
+    border: none;
+}
+#btn-send{
+    margin-top: 20px;
+    background-color: #333;
+    border: none;
+    color: white;
+    padding: 15px;
+    height: auto;
+    width: auto;
+}
+#btn-send:hover{
+    cursor: pointer;
+    border: 1px solid white;
+}
+#error{
+    text-align: center;
+    color: white;
+}
