@@ -25,6 +25,6 @@ return[
     'Viewing profile of'=>'Tiek apskatīts profils',
     'SEND A MESSAGE'=>'RAKSTĪT VĒSTULI',
     'Views'=>'Skatījumi',
-    ''=>'',
+    'Comments'=>'Komentāri',
     ''=>'',
 ];

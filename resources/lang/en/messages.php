@@ -25,7 +25,7 @@ return[
     'Viewing profile of'=>'Viewing profile of',
     'SEND A MESSAGE'=>'SEND A MESSAGE',
     'Views'=>'Views',
-    ''=>'',
+    'Comments'=>'Comments',
     ''=>'',
     ''=>'',
     ''=>'',

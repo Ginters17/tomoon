@@ -69,7 +69,7 @@
     <!-- Comments -->
     <section id="comments">
     <div class="comments">
-        <p>Comments:</p>
+        <p>{{__('messages.Comments')}}:</p>
         @if (count($post->comment)==0)
             <p id="error1"> {{ __('messages.No comments found. Be first!') }}</p>
         @endif
